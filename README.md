@@ -18,6 +18,9 @@
   <a href="https://www.leetcode.com/ds301056" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+   <a href="mailto:ds301056@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  </a>
 </p>
 
 ---
