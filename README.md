@@ -107,7 +107,7 @@
 </p>
 
 <!-- Other Tools -->
-<h4 align="center">Other Tools</h4>
+<h4 align="center">Other Technologies</h4>
 <p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
