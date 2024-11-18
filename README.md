@@ -21,7 +21,9 @@
 
 <!-- [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds301056)](https://github.com/ds301056/github-readme-stats) -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=ds301056&title=Commits,Repositories,PullRequest,Experience&theme=dracula" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ds301056&title=Commits,Repositories,PullRequest,Experience&theme=dracula" />
+</div>
 
 
 
