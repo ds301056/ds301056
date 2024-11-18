@@ -21,4 +21,6 @@
 
 <!-- [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ds301056)](https://github.com/ds301056/github-readme-stats) -->
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ds301056" alt="ds301056" /></a> </p>
+
 
