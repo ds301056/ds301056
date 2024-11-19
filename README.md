@@ -2,11 +2,6 @@
 
 <h3 align="center">A Fullstack Developer with a Keen Interest in Artificial Intelligence</h3>
 
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="40" height="40" />
-</a>
-
-
 ---
 
 - 🔭 I’m currently working on an **ASP.NET & Angular Dating Application**: [Matchify](https://github.com/ds301056/Matchify)
@@ -57,6 +52,10 @@
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="40" height="40" />
+</a>
+
 </p>
 
 <!-- Backend Tools -->
