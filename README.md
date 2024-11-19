@@ -139,7 +139,7 @@
 <div align="center" style="text-align: center; padding-left: 50px;">
   <img src="https://github-profile-trophy.vercel.app/?username=ds301056&theme=dracula" alt="GitHub Trophies" />
 </div>
----
+
 
 <!-- Uncomment this if you'd like to show GitHub stats -->
 <!--
