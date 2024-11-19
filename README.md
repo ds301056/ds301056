@@ -1,3 +1,5 @@
+<h3 align="center">Derek Singleton</h3>
+
 <h3 align="center">A Fullstack Developer with a Keen Interest in Artificial Intelligence</h3>
 
 ---
