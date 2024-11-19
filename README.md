@@ -136,7 +136,7 @@
 
 ---
 <h3 align="center">GitHub Trophies</h3>
-<div style="display: flex; justify-content: flex-start; gap: 20px; margin-left: 50px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: flex-start; gap: 20px; margin-left: 150px; flex-wrap: wrap;">
   <img src="https://github-profile-trophy.vercel.app/?username=ds301056&theme=dracula" alt="GitHub Trophies" />
 </div>
 ---
