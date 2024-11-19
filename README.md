@@ -137,8 +137,9 @@
 ---
 <h3 align="center">GitHub Trophies</h3>
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ds301056&title=Commits,Repositories,PullRequest,Experience&theme=dracula" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ds301056&theme=dracula" alt="GitHub Trophies" />
 </div>
+
 
 ---
 
