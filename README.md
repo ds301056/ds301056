@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on an **ASP.NET & Angular Dating Application**: [Matchify](https://github.com/ds301056/Matchify)
+- 🔭 I’m currently working on an **Full Stack ASP.NET & Angular Dating Application**: [Matchify](https://github.com/ds301056/Matchify)
 - 🌱 I’m currently learning **ASP.NET, Angular, RAG, LangChain, AWS Cloud Practitioner**
 - 👨‍💻 All of my projects are available at my personal website built by me [https://devhorizon.io](https://devhorizon.io)
 - 📫 How to reach me: **ds301056@gmail.com**
