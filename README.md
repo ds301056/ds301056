@@ -153,7 +153,9 @@
 <p align="center">
   🏅 Ultimate Next.js 14 Certificate by <a href="https://www.jsmastery.pro/" target="_blank">JS Mastery</a>
 </p>
-
+<p align="center">
+  🚀 <em>More certifications coming soon... Stay tuned!</em>
+</p>
 ---
 <h3 align="center">GitHub Trophies</h3>
 <div align="center" style="text-align: center; padding-left: 50px;">
