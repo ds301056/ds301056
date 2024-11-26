@@ -141,6 +141,9 @@
 
 
 ---
+### 📜 Certifications
+- Ultimate Next.js 14 Certificate – [JS Mastery]([https://www.jsmastery.pro/](https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png))
+---
 <h3 align="center">GitHub Trophies</h3>
 <div align="center" style="text-align: center; padding-left: 50px;">
   <img src="https://github-profile-trophy.vercel.app/?username=ds301056&theme=dracula" alt="GitHub Trophies" />
