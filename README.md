@@ -141,28 +141,33 @@
 
 ---
 
-<h3 align="center">🔥 Tech Stack Insights</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds301056&layout=compact&theme=dracula" alt="Languages Used" />
-</div>
+<table align="center">
+  <tr>
+    <!-- Tech Stack Insights (Left Column) -->
+    <td>
+      <h3 align="center">🔥 Tech Stack Insights</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds301056&layout=compact&theme=dracula" alt="Languages Used" />
+      </div>
+    </td>
+    <!-- Certifications (Right Column) -->
+    <td>
+      <h4 align="center">📜 Certifications</h4>
+      <p align="center">
+        <a href="https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png" target="_blank">
+          <img src="https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png" alt="Ultimate Next.js 14 Certificate" width="200" />
+        </a>
+      </p>
+      <p align="center">
+        🏅 Ultimate Next.js 14 Certificate by <a href="https://www.jsmastery.pro/" target="_blank">JS Mastery</a>
+      </p>
+      <p align="center">
+        🚀 <em>More certifications coming soon... Stay tuned!</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
-
----
-
-<h4 align="center">📜 Certifications</h4>
-
-<p align="center">
-  <a href="https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png" target="_blank">
-    <img src="https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png" alt="Ultimate Next.js 14 Certificate" width="200" />
-  </a>
-</p>
-
-<p align="center">
-  🏅 Ultimate Next.js 14 Certificate by <a href="https://www.jsmastery.pro/" target="_blank">JS Mastery</a>
-</p>
-<p align="center">
-  🚀 <em>More certifications coming soon... Stay tuned!</em>
-</p>
 
 ---
 <h3 align="center">GitHub Trophies</h3>
