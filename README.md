@@ -145,7 +145,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds301056&layout=compact&theme=dracula" alt="Languages Used" />
 </div>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ds301056&layout=compact&theme=dracula&count_private=true)
 
 
 ---
