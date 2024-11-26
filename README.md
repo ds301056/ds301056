@@ -139,6 +139,11 @@
 
 </p>
 
+---
+
+### 🔥 Tech Stack Insights
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ds301056&layout=compact&theme=dracula)
+
 
 ---
 
