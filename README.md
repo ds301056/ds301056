@@ -141,8 +141,8 @@
 
 
 ---
-<h1> 📜 Certifications </h1>
-- Ultimate Next.js 14 Certificate – [JS Mastery]([https://www.jsmastery.pro/](https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png))
+<h4 align="center"> 📜 Certifications </h4>
+- Ultimate Next.js 14 Certificate – [JS Mastery]([https://www.jsmastery.pro/](https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png)
 ---
 <h3 align="center">GitHub Trophies</h3>
 <div align="center" style="text-align: center; padding-left: 50px;">
