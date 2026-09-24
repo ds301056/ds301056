@@ -33,4 +33,3 @@
 - AWS Certified Cloud Practitioner (Dec 2024) · AWS Certified AI Practitioner · Next.js, JavaScript Mastery (Aug 2024)
 - *In progress:* Azure AI Engineer (AI-102) · IBM AI Engineering
 
-<p align="center"><sub>Open to full-stack and applied-AI engineering roles. The fastest way to reach me is <a href="mailto:ds301056@gmail.com">email</a>.</sub></p>
