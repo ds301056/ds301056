@@ -1,6 +1,6 @@
 ## Hi, I'm Derek 👋
 
-I'm a full-stack engineer. I build the internal software a business runs on (desktop apps, web apps, data pipelines), and lately the AI tooling that works on top of it. Right now that's the platform behind a 50-person engineering firm.
+Full-stack engineer and lifelong nerd, running on a coffee intake my doctor would like to discuss. ☕ If it works on the first try, I assume I broke something.
 
 [![Portfolio](https://img.shields.io/badge/devhorizon.io-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://devhorizon.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-singleton-a29726129/)
