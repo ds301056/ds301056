@@ -17,12 +17,12 @@ Full-stack engineer and lifelong nerd, running on a coffee intake my doctor woul
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🧠 **[NRAP](https://github.com/ds301056/NRAP)** | Brain-activation inference on on-demand GPUs, rendered as a live 3D brain | Python · FastAPI · Redis · React |
-| 🎙️ **[jarvis](https://github.com/ds301056/jarvis)** | Local voice assistant that calls tools to act on the machine | Python · Whisper · Ollama |
-| 🏠 **[House](https://github.com/ds301056/House)** | Prices Cincinnati listings against 295k real sales | Python · SQLite |
-| 🏋️ **[FitSafe](https://github.com/ds301056/FitSafe)** | Self-hosted gym tracker running on a Raspberry Pi | Node.js · TypeScript |
-| 💬 **[devOverflow](https://github.com/ds301056/devOverflow)** | Stack Overflow-style Q&A with auth and tags ([live](https://dev-overflow-topaz-kappa.vercel.app)) | Next.js · MongoDB |
-| 🛠️ **[OpenForge](https://github.com/ds301056/OpenForge)** | *WIP.* Turns vague goals into plans you can edit | Next.js · Supabase |
+| **[NRAP](https://github.com/ds301056/NRAP)** | Neural Response Analytics Platform. Upload audio, video, or text, and it predicts brain activation with Meta's TRIBEv2 model, then shows the result on a 3D particle brain that lights up in real time. Inference runs on an on-demand Modal A10G GPU that costs about $0.02 per clip and nothing when idle. Three inference backends can be swapped without the frontend noticing. | Python · FastAPI · PostgreSQL · Redis · React · Modal |
+| **[jarvis](https://github.com/ds301056/jarvis)** | A local voice assistant that runs the whole agent loop. Wake word → Whisper speech-to-text → a local (Ollama) or cloud LLM → tool calls that act on the machine → streaming text-to-speech. The first audio plays in under a second, you can interrupt it mid-sentence, and the whole thing fits in 16 GB of RAM. | Python · Whisper · Ollama · multi-LLM |
+| **[House](https://github.com/ds301056/House)** | A Cincinnati house-search tool that checks each listing's asking price against 295k county sales and nearby comps. Uses only the Python standard library, with no paid data and no API key. | Python · SQLite |
+| **[FitSafe](https://github.com/ds301056/FitSafe)** | A self-hosted home-gym tracker for a shared iPad, running on a Raspberry Pi. It has profiles, guided workouts, and a 68-exercise library. | Node.js · TypeScript · Raspberry Pi |
+| **[devOverflow](https://github.com/ds301056/devOverflow)** | A Stack Overflow-style Q&A platform with auth, tags, and AI-drafted answers. [Live demo →](https://dev-overflow-topaz-kappa.vercel.app) | Next.js · MongoDB · OAuth |
+| **[OpenForge](https://github.com/ds301056/OpenForge)** | *Work in progress.* A planning tool that turns vague goals into plans you can edit, tracks progress, and suggests improvements. | Next.js · Supabase · Vitest |
 
 ### Tech stack
 
