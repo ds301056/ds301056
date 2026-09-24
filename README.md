@@ -22,11 +22,15 @@ Full-stack engineer and lifelong nerd, running on a coffee intake my doctor woul
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js&perline=12" alt="C#, .NET, Python, TypeScript, JavaScript" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,fastapi,nodejs&perline=12" alt="React, Next.js, Tailwind, Vite, Three.js, FastAPI, Node.js" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,docker,git,githubactions,azure,aws,linux&perline=12" alt="PostgreSQL, MongoDB, Redis, SQLite, Docker, Git, GitHub Actions, Azure, AWS, Linux" />
-
-Also: SQL Server · EF Core · WPF · Revit API · Power BI · Claude Code · MCP · Ollama · Whisper
+| | |
+|---|---|
+| **Languages** | C#, Python, TypeScript, JavaScript, SQL |
+| **Backend** | .NET / ASP.NET Core, WPF, EF Core, FastAPI, Node.js |
+| **Frontend** | React, Next.js, Tailwind CSS, Three.js |
+| **Data** | SQL Server, PostgreSQL, MongoDB, Redis, Power BI |
+| **Cloud & DevOps** | Docker, GitHub Actions, Azure, AWS |
+| **AI** | Claude Code, MCP, Ollama, Whisper, agentic tool-calling |
+| **Engineering** | Revit API, ERP/CRM integration, industrial protocols |
 
 ### Credentials
 
