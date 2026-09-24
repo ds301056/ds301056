@@ -1,185 +1,68 @@
-<h3 align="center">Derek Singleton</h3>
+<h1 align="center">Derek Singleton</h1>
 
-<h3 align="center">A Fullstack Developer with a Keen Interest in Artificial Intelligence</h3>
-
----
-
-- 🔭 I’m currently working on an **Full Stack ASP.NET & Angular Dating Application**: [Matchify](https://github.com/ds301056/Matchify)
-- 🌱 I’m currently learning **ASP.NET, Angular, RAG, LangChain, AWS Cloud Practitioner**
-- 👨‍💻 All of my projects are available at my personal website built by me [https://devhorizon.io](https://devhorizon.io)
-- 📫 How to reach me: **ds301056@gmail.com**
-- ⚡ Why do programmers prefer dark mode? **Because light attracts bugs! 🐛**
-
----
-
-<h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/derek-singleton-a29726129" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ds301056" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-   <a href="mailto:ds301056@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
+  <b>Full-stack engineer · C# / .NET · Python · React · SQL Server</b><br/>
+  I build the internal software a business runs its week on, and the clean data underneath it that AI needs before it can do anything useful.
 </p>
 
----
-<h3 align="center">Languages and Tools</h3>
-
-<!-- Frontend Tools -->
-<h4 align="center">Frontend Tools</h4>
 <p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40" style="filter: invert(100%)" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" alt="Vite" width="40" height="40" />
-</a>
-
-</p>
-
-<!-- Backend Tools -->
-<h4 align="center">Backend Tools</h4>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- DevOps and Cloud Tools -->
-<h4 align="center">DevOps & Cloud Tools</h4>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Databases -->
-<h4 align="center">Databases</h4>
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- Other Tools -->
-<h4 align="center">Other Technologies</h4>
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </a>
-
+  <a href="https://devhorizon.io"><img src="https://img.shields.io/badge/portfolio-devhorizon.io-0ea5e9?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/derek-singleton-a29726129/"><img src="https://img.shields.io/badge/LinkedIn-Derek%20Singleton-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ds301056@gmail.com"><img src="https://img.shields.io/badge/email-ds301056%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-<table align="center">
-  <tr>
-    <!-- Tech Stack Insights (Left Column) -->
-    <td>
-      <h3 align="center">🔥 Tech Stack Insights</h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ds301056&layout=compact&theme=dracula" alt="Languages Used" />
-      </div>
-    </td>
-    <!-- Certifications (Right Column) -->
-    <td>
-      <h4 align="center">📜 Certifications</h4>
-      <p align="center">
-        <a href="https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png" target="_blank">
-          <img src="https://my.certifyme.online/static/fileStore/img/926/10546/372926_badge_F40263.png" alt="Ultimate Next.js 14 Certificate" width="200" />
-        </a>
-      </p>
-      <p align="center">
-        🏅 Ultimate Next.js 14 Certificate by <a href="https://www.jsmastery.pro/" target="_blank">JS Mastery</a>
-      </p>
-      <p align="center">
-        🚀 <em>More certifications coming soon... Stay tuned!</em>
-      </p>
-    </td>
-  </tr>
-</table>
+## What I'm doing now
 
+I'm the main developer of the internal software platform at a **50-person engineering firm** (Jan 2025 – present). I handle the architecture, the builds, and the deployments. The platform started as a fragile set of tools with broken authentication and a legacy Access database that had no referential integrity. It's now **5+ production apps used every day by 30+ people**.
+
+- **Document-delivery desktop app.** I rebuilt a WinForms v1 as a WPF / .NET 9 app on Clean Architecture and EF Core. It talks to the firm's ERP in two ways: the API for keys and ODBC for detail. That pulls about 600 projects in about 2 seconds. It has 970 tests, an installer that bundles the runtime, a channel-based auto-updater, and a forced v1 → v2 migration.
+- **Workforce-capacity forecasting.** A Python / FastAPI and Next.js service that combines ERP billing data with CRM pipeline data. It runs three forecast models against real staff capacity and feeds a 12-month KPI dashboard. It takes about 90% less effort than the Excel process it replaced.
+- **Revit add-in suite (Revit 2023–2026).** A model-to-database integrity engine that finds and repairs broken data links, transactional parent/child sync with rollback and retry, and two-way document tracking between the model and SQL Server.
+- **Firm-wide file browser.** Searches 7,113 projects in under a second, and each user sees only what their role allows. It replaced digging through network drives by hand.
+- **Standards written for AI.** About 15 development-standards documents written so a model can read and follow them. Also a Model Context Protocol server stack and Claude Code subagents that enforce the standards as code gets written. 35+ zero-downtime releases.
+
+The firm's own ROI accounting credits the tools I built with **~804 hours (~$130K)** across 2025 and the first half of 2026. That accounting is based on estimated time saved per use; nobody timed it with a stopwatch.
+
+**Before that:** Balluff, Software Engineer (Aug 2023 – Dec 2024). I built Node.js and Python pipelines that polled 120+ industrial sensors across 12 systems over REST, TCP/IP, UDP, and EtherNet/IP, and fed real-time React diagnostics dashboards for PLC and sensor health.
 
 ---
-<h3 align="center">GitHub Trophies</h3>
-<div align="center" style="text-align: center; padding-left: 50px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ds301056&theme=dracula" alt="GitHub Trophies" />
-</div>
 
+## Projects you can open
 
-<!-- Uncomment this if you'd like to show GitHub stats -->
-<!--
-<h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ds301056" alt="Derek's GitHub Stats" />
-</div>
--->
+| Project | What it is | Stack |
+|---|---|---|
+| **[NRAP](https://github.com/ds301056/NRAP)** | Neural Response Analytics Platform. Upload audio, video, or text, and it predicts brain activation with Meta's TRIBEv2 model, then shows the result on a 3D particle brain that lights up in real time. Inference runs on an on-demand Modal A10G GPU that costs about $0.02 per clip and nothing when idle. Three inference backends can be swapped without the frontend noticing. | Python · FastAPI · PostgreSQL · Redis · React · Modal |
+| **[jarvis](https://github.com/ds301056/jarvis)** | A local voice assistant that runs the whole agent loop. Wake word → Whisper speech-to-text → a local (Ollama) or cloud LLM → tool calls that act on the machine → streaming text-to-speech. The first audio plays in under a second, you can interrupt it mid-sentence, and the whole thing fits in 16 GB of RAM. | Python · Whisper · Ollama · multi-LLM |
+| **[House](https://github.com/ds301056/House)** | A Cincinnati house-search tool that checks each listing's asking price against 295k county sales and nearby comps. Uses only the Python standard library, with no paid data and no API key. | Python · SQLite |
+| **[FitSafe](https://github.com/ds301056/FitSafe)** | A self-hosted home-gym tracker for a shared iPad, running on a Raspberry Pi. It has profiles, guided workouts, and a 68-exercise library. | Node.js · TypeScript · Raspberry Pi |
+| **[devOverflow](https://github.com/ds301056/devOverflow)** | A Stack Overflow-style Q&A platform with auth, tags, and AI-drafted answers. [Live demo →](https://dev-overflow-topaz-kappa.vercel.app) | Next.js · MongoDB · OAuth |
+| **[OpenForge](https://github.com/ds301056/OpenForge)** | *Work in progress.* A planning tool that turns vague goals into plans you can edit, tracks progress, and suggests improvements. | Next.js · Supabase · Vitest |
+
+Most of my professional work lives in private repositories. The write-ups, diagrams, and demos are at **[devhorizon.io](https://devhorizon.io)**.
+
+---
+
+## Tools I use day to day
+
+| | |
+|---|---|
+| **Languages** | C#, Python, TypeScript, JavaScript, SQL |
+| **Backend** | .NET / ASP.NET Core, WPF, Entity Framework Core, FastAPI, Node.js, REST, OAuth2 / Entra ID SSO |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Data** | SQL Server, PostgreSQL, MongoDB, Redis, Pandas, Power BI |
+| **Testing & DevOps** | xUnit, pytest, Playwright, Git, GitHub Actions, Docker |
+| **AI** | Claude Code, MCP servers, agentic tool-calling, Whisper, Ollama |
+| **Domain** | Revit API, ERP/CRM integration (ODBC + REST), industrial protocols (EtherNet/IP, TCP/UDP) |
+
+---
+
+## Credentials
+
+- **B.S., Data Analysis & Software Development**, University of Cincinnati (expected Spring 2027)
+- **Associate degree, Software Development & Database Management**, Cincinnati State (2024)
+- AWS Certified Cloud Practitioner (Dec 2024) · AWS Certified AI Practitioner · Next.js, JavaScript Mastery (Aug 2024)
+- *In progress:* Azure AI Engineer (AI-102) · IBM AI Engineering
+
+<p align="center"><sub>Open to full-stack and applied-AI engineering roles. The fastest way to reach me is <a href="mailto:ds301056@gmail.com">email</a>.</sub></p>
