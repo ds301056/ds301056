@@ -30,6 +30,6 @@
 
 - **B.S., Data Analysis & Software Development**, University of Cincinnati (expected Spring 2027)
 - **Associate degree, Software Development & Database Management**, Cincinnati State (2024)
-- AWS Certified Cloud Practitioner (Dec 2024) · AWS Certified AI Practitioner · Next.js, JavaScript Mastery (Aug 2024)
+- AWS Certified Cloud Practitioner (2024) · AWS Certified AI Practitioner (2025) · Next.js, JavaScript Mastery (Aug 2024)
 - *In progress:* Azure AI Engineer (AI-102) · IBM AI Engineering
 
