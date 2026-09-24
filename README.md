@@ -38,4 +38,6 @@ Full-stack engineer and lifelong nerd, running on a coffee intake my doctor woul
 
 ### Credentials
 
-B.S. Data Analysis & Software Development, University of Cincinnati (expected 2027) · AWS Certified Cloud Practitioner (2024) · AWS Certified AI Practitioner (2025)
+- 🎓 B.S. Data Analysis & Software Development, University of Cincinnati (expected 2027)
+- 🎓 Associate degree, Software Development & Database Management, Cincinnati State (2024)
+- ☁️ AWS Certified Cloud Practitioner (2024) · AWS Certified AI Practitioner (2025)
