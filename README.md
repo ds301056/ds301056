@@ -1,35 +1,33 @@
-<h1 align="center">Derek Singleton</h1>
+## Hi, I'm Derek 👋
 
-<p align="center">
-  <b>Full-stack engineer · C# / .NET · Python · React · SQL Server</b><br/>
-  I build the internal software a business runs its week on, and the clean data underneath it that AI needs before it can do anything useful.
-</p>
+I'm a full-stack engineer. I build the internal software a business runs on (desktop apps, web apps, data pipelines), and lately the AI tooling that works on top of it. Right now that's the platform behind a 50-person engineering firm.
 
-<p align="center">
-  <a href="https://devhorizon.io"><img src="https://img.shields.io/badge/portfolio-devhorizon.io-0ea5e9?style=flat-square" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/derek-singleton-a29726129/"><img src="https://img.shields.io/badge/LinkedIn-Derek%20Singleton-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ds301056@gmail.com"><img src="https://img.shields.io/badge/email-ds301056%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/devhorizon.io-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://devhorizon.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-singleton-a29726129/)
+[![Email](https://img.shields.io/badge/ds301056@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ds301056@gmail.com)
 
----
+### What I do
 
+- 🏢 **Internal platforms.** Desktop and web apps that people use every day, with the auth, data, and release pipeline behind them
+- 🤖 **Agentic AI.** Tool-calling agents and voice assistants that take real actions
+- 📊 **Data and forecasting.** ERP/CRM integrations, pipelines, and the dashboards on top
+- 🧩 **Engineering automation.** Revit add-ins and industrial sensor systems
 
-| | |
-|---|---|
-| **Languages** | C#, Python, TypeScript, JavaScript, SQL |
-| **Backend** | .NET / ASP.NET Core, WPF, Entity Framework Core, FastAPI, Node.js, REST, OAuth2 / Entra ID SSO |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Data** | SQL Server, PostgreSQL, MongoDB, Redis, Pandas, Power BI |
-| **Testing & DevOps** | xUnit, pytest, Playwright, Git, GitHub Actions, Docker |
-| **AI** | Claude Code, MCP servers, agentic tool-calling, Whisper, Ollama |
-| **Domain** | Revit API, ERP/CRM integration (ODBC + REST), industrial protocols (EtherNet/IP, TCP/UDP) |
+### Things I've built
 
----
+- 🧠 **[NRAP](https://github.com/ds301056/NRAP)**: brain-activation inference on on-demand GPUs, shown as a live 3D brain
+- 🎙️ **[jarvis](https://github.com/ds301056/jarvis)**: a local voice assistant that calls tools to act on the machine
+- 🏠 **[House](https://github.com/ds301056/House)**: prices Cincinnati listings against 295k real sales
+- 🏋️ **[FitSafe](https://github.com/ds301056/FitSafe)**: a self-hosted gym tracker running on a Raspberry Pi
 
-## Credentials
+### Tech stack
 
-- **B.S., Data Analysis & Software Development**, University of Cincinnati (expected Spring 2027)
-- **Associate degree, Software Development & Database Management**, Cincinnati State (2024)
-- AWS Certified Cloud Practitioner (2024) · AWS Certified AI Practitioner (2025) · Next.js, JavaScript Mastery (Aug 2024)
-- *In progress:* Azure AI Engineer (AI-102) · IBM AI Engineering
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js&perline=12" alt="C#, .NET, Python, TypeScript, JavaScript" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,fastapi,nodejs&perline=12" alt="React, Next.js, Tailwind, Vite, Three.js, FastAPI, Node.js" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,docker,git,githubactions,azure,aws,linux&perline=12" alt="PostgreSQL, MongoDB, Redis, SQLite, Docker, Git, GitHub Actions, Azure, AWS, Linux" />
 
+Also: SQL Server · EF Core · WPF · Revit API · Power BI · Claude Code · MCP · Ollama · Whisper
+
+### Credentials
+
+B.S. Data Analysis & Software Development, University of Cincinnati (expected 2027) · AWS Certified Cloud Practitioner (2024) · AWS Certified AI Practitioner (2025)
