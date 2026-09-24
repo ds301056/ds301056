@@ -8,10 +8,10 @@ Full-stack engineer and lifelong nerd, running on a coffee intake my doctor woul
 
 ### What I do
 
-- 🏢 **Internal platforms.** Desktop and web apps that people use every day, with the auth, data, and release pipeline behind them
-- 🤖 **Agentic AI.** Tool-calling agents and voice assistants that take real actions
-- 📊 **Data and forecasting.** ERP/CRM integrations, pipelines, and the dashboards on top
-- 🧩 **Engineering automation.** Revit add-ins and industrial sensor systems
+- 🏢 **Internal tools.** The software a 50-person engineering firm runs its week on
+- 🤖 **Agentic AI.** Agents that take actions, not just chat
+- 📊 **Forecasting.** Turning business data into staffing decisions
+- 🧩 **Automation.** Replacing the tedious parts of engineering work
 
 ### Things I've built
 
