@@ -15,10 +15,14 @@ Full-stack engineer and lifelong nerd, running on a coffee intake my doctor woul
 
 ### Things I've built
 
-- 🧠 **[NRAP](https://github.com/ds301056/NRAP)**: brain-activation inference on on-demand GPUs, shown as a live 3D brain
-- 🎙️ **[jarvis](https://github.com/ds301056/jarvis)**: a local voice assistant that calls tools to act on the machine
-- 🏠 **[House](https://github.com/ds301056/House)**: prices Cincinnati listings against 295k real sales
-- 🏋️ **[FitSafe](https://github.com/ds301056/FitSafe)**: a self-hosted gym tracker running on a Raspberry Pi
+| Project | What it is | Stack |
+|---|---|---|
+| 🧠 **[NRAP](https://github.com/ds301056/NRAP)** | Brain-activation inference on on-demand GPUs, rendered as a live 3D brain | Python · FastAPI · Redis · React |
+| 🎙️ **[jarvis](https://github.com/ds301056/jarvis)** | Local voice assistant that calls tools to act on the machine | Python · Whisper · Ollama |
+| 🏠 **[House](https://github.com/ds301056/House)** | Prices Cincinnati listings against 295k real sales | Python · SQLite |
+| 🏋️ **[FitSafe](https://github.com/ds301056/FitSafe)** | Self-hosted gym tracker running on a Raspberry Pi | Node.js · TypeScript |
+| 💬 **[devOverflow](https://github.com/ds301056/devOverflow)** | Stack Overflow-style Q&A with auth and tags ([live](https://dev-overflow-topaz-kappa.vercel.app)) | Next.js · MongoDB |
+| 🛠️ **[OpenForge](https://github.com/ds301056/OpenForge)** | *WIP.* Turns vague goals into plans you can edit | Next.js · Supabase |
 
 ### Tech stack
 
